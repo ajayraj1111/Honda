@@ -1,0 +1,59 @@
+.centre2{
+display: flex;
+height: 250px;
+width: 83.2%;
+margin-left: 9%;
+margin-right: 8%;
+flex-direction: row;
+margin-top: -20px;
+}
+.first{
+    flex: 3;
+    font-family: Roboto, sans-serif;
+    
+}
+.first1{
+    color: #cc0001;
+    font-size: 30px;
+    font-weight: 500;
+}
+.first2{
+height: 18px;
+}
+.first3{
+font-size: 13px;
+text-align: justify;
+}
+.second{
+    flex: 3;
+    font-family: Roboto, sans-serif;
+
+}
+.second1{
+    color: #cc0001;
+    font-size: 30px;
+    font-weight: 500;
+}
+.second2{
+    height: 18px;
+}
+.second3{
+width: 325px;
+padding-left: 10px;
+}
+.third{
+    flex: 3;
+    font-family: Roboto, sans-serif;
+}
+.third1{
+    color: #cc0001;
+    font-size: 30px;
+    font-weight: 500;
+}
+.third2{
+    height: 18px;
+}
+.third3{
+    width: 325px;
+    padding-left: 10px;
+}

@@ -1,0 +1,45 @@
+.centre3{
+    display: flex;
+    margin-top: 150px;
+    width: 80%;
+    margin-left: 8%;
+    margin-right: 12%;
+    align-items: flex-start;
+    font-family: Roboto, sans-serif;
+}
+.side1{
+flex: 1;
+}
+.side1-1{
+    color: #cc0001;
+    font-size: 30px;
+    font-weight: 500;
+}
+.side1-2{
+    height: 18px;
+}
+.side1-3{
+font-size: 15px;
+
+}
+.side2{
+flex: 1;
+height: 418px;
+}
+.side2-1{
+    color: #cc0001;
+    font-size: 30px;
+    font-weight: 500;
+}
+.side2-2{
+    height: 18px;
+}
+.side2-3{
+padding-left: 30px;
+padding-top: 10px;
+
+}
+.place{
+    font-style: italic;
+    font-family: Roboto, sans-serif;
+}
